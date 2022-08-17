@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppointmentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Appointments>
+    <Appointment>
+      <AppointmentTime>11:00AM</AppointmentTime>
+      <Client>
+        <Name>12</Name>
+        <Age>12</Age>
+        <Gender>Female</Gender>
+        <PhoneNumber>12</PhoneNumber>
+        <CreditCardNumber>1212 XXXX XXXX 1212</CreditCardNumber>
+        <Sport xsi:type="Snorkeling">
+          <Service_Chosen>Video Clip</Service_Chosen>
+          <Sport_type>Snorkeling</Sport_type>
+        </Sport>
+      </Client>
+    </Appointment>
+  </Appointments>
+</AppointmentList>
